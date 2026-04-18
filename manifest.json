@@ -1,0 +1,21 @@
+{
+    "name": "My Example Plugin",
+    "id": "devcell.my-example-plugin",
+    "version": "1.0.0",
+    "description": "A simple test plugin.",
+    "icon": "icon.png",
+    "homepage": "https://github.com/Qquaded/Kinemium-Engine",
+    "repository": "https://github.com/Qquaded/Kinemium-Engine",
+    "keywords": [
+        "test",
+        "other"
+    ],
+    "author": "devcell",
+    "license": "MIT",
+    "main": "main.luau",
+    "engine": {
+        "minVersion": "1.10.7"
+    },
+    "dependencies": {},
+    "permissions": []
+}

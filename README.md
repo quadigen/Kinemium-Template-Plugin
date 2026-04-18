@@ -1,2 +1,1 @@
-# Kinemium-Template-Plugin
-example plugin
+This is my custom test plugin for Kinemium Engine.
