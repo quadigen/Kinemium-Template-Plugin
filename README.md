@@ -1,1 +1,1 @@
-This is my custom test plugin for Kinemium Engine.
+This is a template plugin for Kinemium Engine.
