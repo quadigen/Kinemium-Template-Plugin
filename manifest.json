@@ -5,8 +5,8 @@
     "description": "A simple test plugin.",
     "icon": "icon.png",
     "thumbnail": "thumbnail.png",
-    "homepage": "https://github.com/Qquaded/Kinemium-Engine",
-    "repository": "https://github.com/Qquaded/Kinemium-Engine",
+    "homepage": "https://github.com/quadigen/Kinemium-Template-Plugin",
+    "repository": "https://github.com/quadigen/Kinemium-Template-Plugin",
     "keywords": [
         "test",
         "other"
